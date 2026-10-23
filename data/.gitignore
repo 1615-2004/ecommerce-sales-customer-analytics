@@ -1,0 +1,16 @@
+
+# Original dataset and large CSV files
+data/Online Retail.xlsx
+data/retail_mysql_ready.csv
+data/retail_clean.csv
+data/ecommerce_sales_clean.csv
+data/sql_exports/monthly_product_revenue.csv
+
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Private credentials
+.env
